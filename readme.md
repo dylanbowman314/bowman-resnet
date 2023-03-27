@@ -1,7 +1,7 @@
 # ResNet Implementation
 
 ### Info
-For this repository, I implemented the [ResNet paper](https://arxiv.org/pdf/1512.03385.pdf) in PyTorch from scratch without referencing any prior implementations. I downloaded the full [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
+For this repository, I implemented the [ResNet paper](https://arxiv.org/pdf/1512.03385.pdf) in PyTorch from scratch without referencing any prior implementations. I trained the model on the full [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
 
 ### Setup and Dependencies
 
